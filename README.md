@@ -27,10 +27,30 @@ For example, `C:/tmp`(in Windows) or `/tmp` (in Mac) will assign the temporary d
 
 ![Alt text](/Figures/InitializationLog.png)
 
-4. After you see the logs, open a web browser (Google Chrome is recommended) and go to http://localhost:8000.
+4. After you see the logs, open a web browser ([Google Chrome](https://www.google.com/chrome/) is recommended) and go to http://localhost:8000.
 
 - If you see this, you have successfully launched the application.
 
 ![Alt text](/Figures/FrontPage.png)
+
+
+## other information mentioned in the tutorial
+
+### OptiNiSt
+- [documentation](https://optinist.readthedocs.io/en/latest/ )
+- [gitub repository](https://github.com/oist/optinist)
+
+
+### NWB
+- [project](https://www.nwb.org)
+- [NWB software](https://nwb-overview.readthedocs.io/en/latest/index.html)
+- [HDF view](https://www.hdfgroup.org/downloads/hdfview/)
+
+### cell detection algorithms
+- suite2p [website](https://suite2p.readthedocs.io/en/latest/index.html) [paper](https://www.biorxiv.org/content/10.1101/061507v2)
+- CaImAn [website](https://caiman.readthedocs.io/en/latest/) [paper](https://elifesciences.org/articles/38173)
+- lccd [GitHub repository](https://github.com/magnetizedCell/lccd-python) [paper](https://www.sciencedirect.com/science/article/pii/S016801022200075X)
+  
+
 
 
