@@ -47,9 +47,9 @@ For example, `C:/tmp`(in Windows) or `/tmp` (in Mac) will assign the temporary d
 - [HDF view](https://www.hdfgroup.org/downloads/hdfview/)
 
 ### cell detection algorithms
-- suite2p [website](https://suite2p.readthedocs.io/en/latest/index.html) [paper](https://www.biorxiv.org/content/10.1101/061507v2)
-- CaImAn [website](https://caiman.readthedocs.io/en/latest/) [paper](https://elifesciences.org/articles/38173)
-- lccd [GitHub repository](https://github.com/magnetizedCell/lccd-python) [paper](https://www.sciencedirect.com/science/article/pii/S016801022200075X)
+&emsp; suite2p &emsp;[website](https://suite2p.readthedocs.io/en/latest/index.html)&emsp;[github repository](https://github.com/MouseLand/suite2p) &emsp; [paper](https://www.biorxiv.org/content/10.1101/061507v2)<br>
+&emsp; CaImAn &emsp;[website](https://caiman.readthedocs.io/en/latest/) &emsp;[github repository](https://github.com/flatironinstitute/CaImAn)&emsp;[paper](https://elifesciences.org/articles/38173)<br>
+&emsp; lccd &emsp;[gitub repository](https://github.com/magnetizedCell/lccd-python)&emsp; [paper](https://www.sciencedirect.com/science/article/pii/S016801022200075X)<br>
   
 
 
