@@ -1,4 +1,4 @@
-# OCNC_optinist
+# OCNC_tutorial_optinist
 This repository provides instructions for the preparation for the Optinist tutorial at OCNC2024. Please download the Docker image for the Optinist tutorial and make sure it opens correctly.
 
 In addition, please download sample files from this [link](https://drive.google.com/drive/folders/1SUy3GBltprKUOa_KNPqqevGGZURq6oEY?usp=sharing)
