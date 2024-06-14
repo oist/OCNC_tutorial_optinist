@@ -5,14 +5,18 @@ In addition, please download sample files from this [link](https://drive.google.
 
 
 ## preparation
+<br>
+
 1. start the Docker Desktop application.
-    
+<br> 
+
 2. Open a Terminal/Command prompt/PowerShell and execute the following to fetch the Docker image.
 
 ```
 docker pull oistncu/optinist-allinone
 ```
-  
+<br>
+
 3. Create and run the container by the following command.
 ```
 docker run -it --shm-size=2G -v YOURSAVINGDIRECTORY:/app/studio_data --env OPTINIST_DIR="/app/studio_data" --name optinist_container -d -p 8000:8000 --restart=unless-stopped oistncu/optinist-allinone:latest poetry run python main.py --host 0.0.0.0 --port 8000
@@ -25,14 +29,17 @@ For example, `C:/tmp`(in Windows) or `/tmp` (in Mac) will assign the temporary d
 
 - The container automatically starts optinist. When the initialization is finished, they show the logs like this.
 
-![Alt text](/Figures/InitializationLog.png)
+<img src="/Figures/InitializationLog.png" width="80%">
+<br>
 
 4. After you see the logs, open a web browser ([Google Chrome](https://www.google.com/chrome/) is recommended) and go to http://localhost:8000.
 
 - If you see this, you have successfully launched the application.
 
-![Alt text](/Figures/FrontPage.png)
-
+<img src="/Figures/FrontPage.png" width="50%">
+<br>
+<br>
+<br>
 
 ## other information mentioned in the tutorial
 
