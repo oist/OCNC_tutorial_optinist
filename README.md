@@ -7,10 +7,11 @@ In addition, please download sample files from this [link](https://drive.google.
 ## preparation
 <br>
 
-1. start the Docker Desktop application.
+1. start the Docker Desktop application.<br>
+   (For M1/2 Mac users, make sure 'Rosetta for x86_64/amd64 emulation on Apple Silicon' is checked in the settings for Docker Desktop. )
 <br> 
 
-2. Open a Terminal/Command prompt/PowerShell and execute the following to fetch the Docker image.
+3. Open a Terminal/Command prompt/PowerShell and execute the following to fetch the Docker image.
 
 ```
 docker pull oistncu/optinist-allinone
@@ -40,6 +41,15 @@ For example, `C:/tmp`(in Windows) or `/tmp` (in Mac) will assign the temporary d
 <br>
 <br>
 <br>
+
+
+## trouble shooting
+<br>
+Issue: The Docker container seems to be working, but http://localhost:8000 does not show the front page of OptiNiSt.<br>
+Solution: Try using 127.0.0.1 instead of localhost.<br>
+<br>
+
+
 
 ## other information mentioned in the tutorial
 
