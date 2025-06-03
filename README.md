@@ -1,7 +1,7 @@
 # OCNC_tutorial_optinist
-This repository provides instructions for the preparation for the Optinist tutorial at OCNC2024. Please download the Docker image for the Optinist tutorial and make sure it opens correctly.
+This repository provides instructions for the preparation for the Optinist tutorial at OCNC2025. Please download the Docker image for the Optinist tutorial and make sure it opens correctly.
 
-In addition, please download sample files from this [link](https://drive.google.com/drive/folders/1SUy3GBltprKUOa_KNPqqevGGZURq6oEY?usp=sharing)
+In addition, please download sample files from this [link](https://drive.google.com/drive/folders/1l5wFz3G5jn96h2uHZ0c6-LPEE04Ag-c2?usp=sharing)
 
 
 ## preparation
@@ -56,7 +56,7 @@ Solution: Try using 127.0.0.1 instead of localhost.<br>
 ### OptiNiSt
 - [documentation](https://optinist.readthedocs.io/en/latest/ )
 - [gitub repository](https://github.com/oist/optinist)
-
+- [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013087#sec015)
 
 ### NWB
 - [project](https://www.nwb.org)
